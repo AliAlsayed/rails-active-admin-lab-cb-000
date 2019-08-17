@@ -2793,3 +2793,4 @@ DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is dep
   [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/AliAlsayed/rails-active-admin-lab-cb-000/app/models/application_record.rb:1)
 DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/AliAlsayed/rails-active-admin-lab-cb-000/app/models/application_record.rb:1)
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from <top (required)> at /home/AliAlsayed/rails-active-admin-lab-cb-000/app/models/application_record.rb:1)
