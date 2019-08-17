@@ -9,7 +9,7 @@ gem 'uglifier'
 gem 'bootsnap'
 gem 'activeadmin', github: 'activeadmin'
 gem 'sqlite3', '~>1.3.6'
-
+gem 'devise'
 group :development, :test do
   gem 'rack_session_access'
   gem "capybara"
