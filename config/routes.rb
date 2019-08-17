@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   ActiveAdmin.routes(self)
   devise_for :users
   resources :artists, only: [:index, :show]
-  resources :songs
+  resources :songs, only: [:index, :show]
 
   root to: 'artists#index'
 end
